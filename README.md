@@ -26,7 +26,7 @@ An AI-powered FAQ chatbot that answers user questions using:
 
 ## Dataset
 
-Codebasics FAQ Dataset
+Codebasics FAQ Dataset(attached)
 
 ## Author
 
